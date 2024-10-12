@@ -1,0 +1,41 @@
+{
+  "Обов'язкові придмети": [
+    {
+      "uuid": "d80d90c0-6e7d-462c-93a4-a6cad5f3c850",
+      "name": "Математика",
+      "icon": "math"
+    },
+    {
+      "uuid": "33f48ced-7db4-46df-a5b0-0bbc9fb5cb30",
+      "name": "Українська мова",
+      "icon": "ukraine"
+    },
+    {
+      "uuid": "f03f9371-a007-46ca-993a-e4c52d007894",
+      "name": "Історія України",
+      "icon": "history"
+    }
+  ],
+  "Вибіркові придмети": [
+    {
+      "uuid": "1f2da901-88bc-49d7-bbbb-cf126f046d31",
+      "name": "Фізика",
+      "icon": "physics"
+    },
+    {
+      "uuid": "815b2247-5557-4a6d-99e6-668a144272b1",
+      "name": "Англійська мова",
+      "icon": "english"
+    },
+    {
+      "uuid": "6456421b-dd4c-453f-a899-bd1f962d6ad6",
+      "name": "Біологія",
+      "icon": "biology"
+    },
+    {
+      "uuid": "d71a2f9d-5027-4a65-81fc-a9673d011b95",
+      "name": "Географія",
+      "icon": "geography"
+    }
+  ]
+}
